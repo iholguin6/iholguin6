@@ -1,4 +1,5 @@
-# **Ismael Holguin**    :money_with_wings: 
+# **Ismael Holguin** 
+
 
 ## **Bio**
 I am a graduate student currently pursuing a **Master in Computer Engineering.**  I decided to continue my education after having completed my undergrad in `Electrical Engineering` :zap:
